@@ -1,0 +1,50 @@
+C:\Users\33781\Desktop\A3\POo\projet\Projet final Pizzeria Tetard Ourradour\Projet final Pizzeria Tetard Ourradour\obj\Debug\Projet final Pizzeria Tetard Ourradour.csprojAssemblyReference.cache
+C:\Users\33781\Desktop\A3\POo\projet\Projet final Pizzeria Tetard Ourradour\Projet final Pizzeria Tetard Ourradour\obj\Debug\MainWindow.g.cs
+C:\Users\33781\Desktop\A3\POo\projet\Projet final Pizzeria Tetard Ourradour\Projet final Pizzeria Tetard Ourradour\obj\Debug\App.g.cs
+C:\Users\33781\Desktop\A3\POo\projet\Projet final Pizzeria Tetard Ourradour\Projet final Pizzeria Tetard Ourradour\obj\Debug\Projet final Pizzeria Tetard Ourradour_MarkupCompile.cache
+C:\Users\33781\Desktop\A3\POo\projet\Projet final Pizzeria Tetard Ourradour\Projet final Pizzeria Tetard Ourradour\obj\Debug\Projet final Pizzeria Tetard Ourradour_MarkupCompile.lref
+C:\Users\33781\Desktop\A3\POo\projet\Projet final Pizzeria Tetard Ourradour\Projet final Pizzeria Tetard Ourradour\bin\Debug\Projet final Pizzeria Tetard Ourradour.exe.config
+C:\Users\33781\Desktop\A3\POo\projet\Projet final Pizzeria Tetard Ourradour\Projet final Pizzeria Tetard Ourradour\bin\Debug\Projet final Pizzeria Tetard Ourradour.exe
+C:\Users\33781\Desktop\A3\POo\projet\Projet final Pizzeria Tetard Ourradour\Projet final Pizzeria Tetard Ourradour\bin\Debug\Projet final Pizzeria Tetard Ourradour.pdb
+C:\Users\33781\Desktop\A3\POo\projet\Projet final Pizzeria Tetard Ourradour\Projet final Pizzeria Tetard Ourradour\obj\Debug\MainWindow.baml
+C:\Users\33781\Desktop\A3\POo\projet\Projet final Pizzeria Tetard Ourradour\Projet final Pizzeria Tetard Ourradour\obj\Debug\Projet final Pizzeria Tetard Ourradour.g.resources
+C:\Users\33781\Desktop\A3\POo\projet\Projet final Pizzeria Tetard Ourradour\Projet final Pizzeria Tetard Ourradour\obj\Debug\Projet_final_Pizzeria_Tetard_Ourradour.Properties.Resources.resources
+C:\Users\33781\Desktop\A3\POo\projet\Projet final Pizzeria Tetard Ourradour\Projet final Pizzeria Tetard Ourradour\obj\Debug\Projet final Pizzeria Tetard Ourradour.csproj.GenerateResource.cache
+C:\Users\33781\Desktop\A3\POo\projet\Projet final Pizzeria Tetard Ourradour\Projet final Pizzeria Tetard Ourradour\obj\Debug\Projet final Pizzeria Tetard Ourradour.csproj.CoreCompileInputs.cache
+C:\Users\33781\Desktop\A3\POo\projet\Projet final Pizzeria Tetard Ourradour\Projet final Pizzeria Tetard Ourradour\obj\Debug\Projet final Pizzeria Tetard Ourradour.exe
+C:\Users\33781\Desktop\A3\POo\projet\Projet final Pizzeria Tetard Ourradour\Projet final Pizzeria Tetard Ourradour\obj\Debug\Projet final Pizzeria Tetard Ourradour.pdb
+C:\Users\33781\Desktop\A3\POo\projet\Projet final Pizzeria Tetard Ourradour\Projet final Pizzeria Tetard Ourradour\obj\Debug\WindowCommander.g.cs
+C:\Users\33781\Desktop\A3\POo\projet\Projet final Pizzeria Tetard Ourradour\Projet final Pizzeria Tetard Ourradour\obj\Debug\WindowCommander.baml
+C:\Users\33781\Desktop\A3\POo\projet\Projet final Pizzeria Tetard Ourradour\Projet final Pizzeria Tetard Ourradour\obj\Debug\Identification.g.cs
+C:\Users\33781\Desktop\A3\POo\projet\Projet final Pizzeria Tetard Ourradour\Projet final Pizzeria Tetard Ourradour\obj\Debug\Identification.baml
+C:\Users\33781\Desktop\A3\POo\projet\Projet final Pizzeria Tetard Ourradour\Projet final Pizzeria Tetard Ourradour\obj\Debug\WindowContact.g.cs
+C:\Users\33781\Desktop\A3\POo\projet\Projet final Pizzeria Tetard Ourradour\Projet final Pizzeria Tetard Ourradour\obj\Debug\WindowContact.baml
+C:\Users\33781\Desktop\A3\POo\projet\Projet final Pizzeria Tetard Ourradour\Projet final Pizzeria Tetard Ourradour\obj\Debug\WindowAdresse.g.cs
+C:\Users\33781\Desktop\A3\POo\projet\Projet final Pizzeria Tetard Ourradour\Projet final Pizzeria Tetard Ourradour\obj\Debug\WindowAdresse.baml
+C:\Users\33781\Desktop\A3\POo\projet\Projet final Pizzeria Tetard Ourradour\Projet final Pizzeria Tetard Ourradour\obj\Debug\WindowPanier.g.cs
+C:\Users\33781\Desktop\A3\POo\projet\Projet final Pizzeria Tetard Ourradour\Projet final Pizzeria Tetard Ourradour\obj\Debug\WindowPanier.baml
+C:\Users\33781\Desktop\A3\A3 S5\POo\projet\Projet final Pizzeria Tetard Ourradour\Projet final Pizzeria Tetard Ourradour\bin\Debug\Projet final Pizzeria Tetard Ourradour.exe.config
+C:\Users\33781\Desktop\A3\A3 S5\POo\projet\Projet final Pizzeria Tetard Ourradour\Projet final Pizzeria Tetard Ourradour\bin\Debug\Projet final Pizzeria Tetard Ourradour.exe
+C:\Users\33781\Desktop\A3\A3 S5\POo\projet\Projet final Pizzeria Tetard Ourradour\Projet final Pizzeria Tetard Ourradour\bin\Debug\Projet final Pizzeria Tetard Ourradour.pdb
+C:\Users\33781\Desktop\A3\A3 S5\POo\projet\Projet final Pizzeria Tetard Ourradour\Projet final Pizzeria Tetard Ourradour\obj\Debug\Projet final Pizzeria Tetard Ourradour.csprojAssemblyReference.cache
+C:\Users\33781\Desktop\A3\A3 S5\POo\projet\Projet final Pizzeria Tetard Ourradour\Projet final Pizzeria Tetard Ourradour\obj\Debug\Identification.g.cs
+C:\Users\33781\Desktop\A3\A3 S5\POo\projet\Projet final Pizzeria Tetard Ourradour\Projet final Pizzeria Tetard Ourradour\obj\Debug\MainWindow.g.cs
+C:\Users\33781\Desktop\A3\A3 S5\POo\projet\Projet final Pizzeria Tetard Ourradour\Projet final Pizzeria Tetard Ourradour\obj\Debug\WindowAdresse.g.cs
+C:\Users\33781\Desktop\A3\A3 S5\POo\projet\Projet final Pizzeria Tetard Ourradour\Projet final Pizzeria Tetard Ourradour\obj\Debug\WindowCommander.g.cs
+C:\Users\33781\Desktop\A3\A3 S5\POo\projet\Projet final Pizzeria Tetard Ourradour\Projet final Pizzeria Tetard Ourradour\obj\Debug\WindowContact.g.cs
+C:\Users\33781\Desktop\A3\A3 S5\POo\projet\Projet final Pizzeria Tetard Ourradour\Projet final Pizzeria Tetard Ourradour\obj\Debug\WindowPanier.g.cs
+C:\Users\33781\Desktop\A3\A3 S5\POo\projet\Projet final Pizzeria Tetard Ourradour\Projet final Pizzeria Tetard Ourradour\obj\Debug\App.g.cs
+C:\Users\33781\Desktop\A3\A3 S5\POo\projet\Projet final Pizzeria Tetard Ourradour\Projet final Pizzeria Tetard Ourradour\obj\Debug\Projet final Pizzeria Tetard Ourradour_MarkupCompile.cache
+C:\Users\33781\Desktop\A3\A3 S5\POo\projet\Projet final Pizzeria Tetard Ourradour\Projet final Pizzeria Tetard Ourradour\obj\Debug\Projet final Pizzeria Tetard Ourradour_MarkupCompile.lref
+C:\Users\33781\Desktop\A3\A3 S5\POo\projet\Projet final Pizzeria Tetard Ourradour\Projet final Pizzeria Tetard Ourradour\obj\Debug\Identification.baml
+C:\Users\33781\Desktop\A3\A3 S5\POo\projet\Projet final Pizzeria Tetard Ourradour\Projet final Pizzeria Tetard Ourradour\obj\Debug\MainWindow.baml
+C:\Users\33781\Desktop\A3\A3 S5\POo\projet\Projet final Pizzeria Tetard Ourradour\Projet final Pizzeria Tetard Ourradour\obj\Debug\WindowAdresse.baml
+C:\Users\33781\Desktop\A3\A3 S5\POo\projet\Projet final Pizzeria Tetard Ourradour\Projet final Pizzeria Tetard Ourradour\obj\Debug\WindowCommander.baml
+C:\Users\33781\Desktop\A3\A3 S5\POo\projet\Projet final Pizzeria Tetard Ourradour\Projet final Pizzeria Tetard Ourradour\obj\Debug\WindowContact.baml
+C:\Users\33781\Desktop\A3\A3 S5\POo\projet\Projet final Pizzeria Tetard Ourradour\Projet final Pizzeria Tetard Ourradour\obj\Debug\WindowPanier.baml
+C:\Users\33781\Desktop\A3\A3 S5\POo\projet\Projet final Pizzeria Tetard Ourradour\Projet final Pizzeria Tetard Ourradour\obj\Debug\Projet final Pizzeria Tetard Ourradour.g.resources
+C:\Users\33781\Desktop\A3\A3 S5\POo\projet\Projet final Pizzeria Tetard Ourradour\Projet final Pizzeria Tetard Ourradour\obj\Debug\Projet_final_Pizzeria_Tetard_Ourradour.Properties.Resources.resources
+C:\Users\33781\Desktop\A3\A3 S5\POo\projet\Projet final Pizzeria Tetard Ourradour\Projet final Pizzeria Tetard Ourradour\obj\Debug\Projet final Pizzeria Tetard Ourradour.csproj.GenerateResource.cache
+C:\Users\33781\Desktop\A3\A3 S5\POo\projet\Projet final Pizzeria Tetard Ourradour\Projet final Pizzeria Tetard Ourradour\obj\Debug\Projet final Pizzeria Tetard Ourradour.csproj.CoreCompileInputs.cache
+C:\Users\33781\Desktop\A3\A3 S5\POo\projet\Projet final Pizzeria Tetard Ourradour\Projet final Pizzeria Tetard Ourradour\obj\Debug\Projet final Pizzeria Tetard Ourradour.exe
+C:\Users\33781\Desktop\A3\A3 S5\POo\projet\Projet final Pizzeria Tetard Ourradour\Projet final Pizzeria Tetard Ourradour\obj\Debug\Projet final Pizzeria Tetard Ourradour.pdb

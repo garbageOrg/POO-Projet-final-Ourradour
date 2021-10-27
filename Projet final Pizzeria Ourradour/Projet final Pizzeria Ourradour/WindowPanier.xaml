@@ -1,0 +1,39 @@
+﻿<Window x:Class="Projet_final_Pizzeria_Tetard_Ourradour.WindowPanier"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Projet_final_Pizzeria_Tetard_Ourradour"
+        mc:Ignorable="d"
+        Title="WindowPanier" Height="450" Width="800">
+    <Grid>
+
+        <Image Source="savoureuse-pizza-au-pepperoni-fond-beton-noir_79782-102.jpg" Stretch="UniformToFill" />
+        <Label x:Name="Titre" Foreground="#FFB43636" FontSize="60" Content="Buddy's Pizza" FontFamily="SWScrps"  HorizontalAlignment="Left" VerticalAlignment="Top" Margin="376,29,0,0" Width="371" Height="91"></Label>
+        <Label Content="Commande" Foreground="#FFB43636" Margin="445,120,150.6,244" FontSize="36" RenderTransformOrigin="-0.046,0.482"   />
+        <TextBox x:Name="MonTextBox" HorizontalAlignment="Left" Height="179" Margin="445,181,0,0" TextWrapping="Wrap" Text="Commande Vide" VerticalAlignment="Top" Width="218"/>
+        <Button Content="Terminer" HorizontalAlignment="Left" Margin="510,376,0,0" VerticalAlignment="Top" Width="75" Click="ButtonCLiqueTerminer"/>
+        <Button Content="Retour" HorizontalAlignment="Left" Margin="401,143,0,0" VerticalAlignment="Top" Width="39" Height="32" Click="Button_Click"/>
+        <StackPanel  Orientation="Vertical" Margin="421,181,353.6,60">
+            <Button x:Name="BouttonSup1" Margin="0 40 0 0" Click="BouttonSup1Clique" >
+                <Image Source="imagesupBonne.PNG"></Image>
+            </Button>
+            <Button x:Name="BouttonSup2" Margin="0 10 0 0" Click="BouttonSup2clique">
+                <Image Source="imagesupBonne.PNG"></Image>
+            </Button>
+            <Button x:Name="BouttonSup3" Margin="0 10 0 0" Click="BouttonSup3clique">
+                <Image Source="imagesupBonne.PNG"></Image>
+            </Button>
+            <Button x:Name="BouttonSup4" Margin="0 10 0 0" Click="BouttonSup4clique">
+                <Image Source="imagesupBonne.PNG"></Image>
+            </Button>
+            <Button x:Name="BouttonSup5" Margin="0 10 0 0" Click="BouttonSup5clique">
+                <Image Source="imagesupBonne.PNG"></Image>
+            </Button>
+            <Button x:Name="BouttonSup6" Margin="0 10 0 0" Click="BouttonSup6clique">
+                <Image Source="imagesupBonne.PNG"></Image>
+            </Button>
+        </StackPanel>
+        
+    </Grid>
+</Window>
